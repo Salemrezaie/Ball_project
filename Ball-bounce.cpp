@@ -14,6 +14,7 @@ struct ball
     double angle;
     int time;
 };
+// må komenteres alt
 static std::list<ball> balls;
 enum DISPLAY_LISTS {
     DL_CENTRE,
