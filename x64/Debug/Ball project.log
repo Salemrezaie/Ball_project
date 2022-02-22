@@ -1,0 +1,8 @@
+﻿  Ball-bounce.cpp
+C:\Users\salem\OneDrive\Dokumenter\GitHub\Simulation and modeling\Ball project\Ball project\Ball-bounce.cpp(85,30): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\salem\OneDrive\Dokumenter\GitHub\Simulation and modeling\Ball project\Ball project\Ball-bounce.cpp(86,31): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\salem\OneDrive\Dokumenter\GitHub\Simulation and modeling\Ball project\Ball project\Ball-bounce.cpp(91,47): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\salem\OneDrive\Dokumenter\GitHub\Simulation and modeling\Ball project\Ball project\Ball-bounce.cpp(121,47): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\salem\OneDrive\Dokumenter\GitHub\Simulation and modeling\Ball project\Ball project\Ball-bounce.cpp(129,31): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\salem\OneDrive\Dokumenter\GitHub\Simulation and modeling\Ball project\Ball project\Ball-bounce.cpp(145,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'glut32.lib'
